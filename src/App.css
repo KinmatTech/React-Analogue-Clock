@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  margin-top:100px;
+  margin-left: 450px;
+}
+.app {
+  font-family: sans-serif;
+  text-align: left;
+}
+.app h1{
+  color:darkorange;
+}
+
+.app h2{
+  color:white;
+}
