@@ -17,14 +17,14 @@ function App() {
     notchColor: '#ffffff',
     numbersColor: '#fffff',
     showNumbers: true,
-    size: 300
+    size: 280
 }
   return (
     <div className="container">
             <div className="app">
-      <h1>React Analogue Clock</h1>
+      <h2>React Analogue Clock</h2>
                     <AnalogClock {...clockOptions} />
-      <h2>Awesome clock from Kinmat Tech.</h2>
+      <h3>Awesome clock from Kinmat Tech.</h3>
     </div>
     </div>
     
