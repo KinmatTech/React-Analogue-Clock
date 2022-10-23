@@ -17,7 +17,7 @@ function App() {
     notchColor: '#ffffff',
     numbersColor: '#fffff',
     showNumbers: true,
-    size: 280
+    size: 300
 }
   return (
     <div className="container">
