@@ -8,6 +8,7 @@ function App() {
     borderColor: '#000000',
     borderWidth: 0,
     centerColor: '#000000',
+
     handColors: {
         hour: '#ffffff',
         minute: '#ffffff',
@@ -19,11 +20,14 @@ function App() {
     size: 300
 }
   return (
-    <div className="app">
+    <div className="container">
+            <div className="app">
       <h1>Kinmat Tech. React Analogue Clock</h1>
-      <AnalogClock {...clockOptions} />
+                    <AnalogClock {...clockOptions} />
       <h2>What an awesome clock from Kinmat Tech.</h2>
     </div>
+    </div>
+    
   );
 }
 
