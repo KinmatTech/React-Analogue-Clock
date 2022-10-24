@@ -22,9 +22,9 @@ function App() {
   return (
     <div className="container">
             <div className="app">
-      <h2>React Analogue Clock</h2>
+      <h1>React Analogue Clock</h1>
                     <AnalogClock {...clockOptions} />
-      <h3>Awesome clock from Kinmat Tech.</h3>
+      <h2>Awesome clock from Kinmat</h2>
     </div>
     </div>
     

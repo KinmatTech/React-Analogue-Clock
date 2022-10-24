@@ -14,16 +14,26 @@
   
 }
 
+.app-wrapper {
+  background-color: #292f38;
+  width: 50%;
+  height: 50vh;
+  padding: 30px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4);
+}
 
 .app {
   font-family: sans-serif;
-  text-align: center;
+  text-align: left;
   
 }
+
 .app h1{
-  color:rgb(47, 0, 255);
+  color:red;
 }
 
 .app h2{
-  color:rgb(95, 33, 21);
+  color:blue;
 }
