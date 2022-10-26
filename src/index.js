@@ -9,6 +9,8 @@ function App() {
       <h1>Analog Clock App </h1>
       
       <Clock />
+
+      <h3>Author: Kinmat Tech. </h3>
     </div>
   );
 }

@@ -5,8 +5,15 @@
 h1{
   color:rgb(255, 140, 0);
     text-align: center;
-    margin-top:120px;
+    margin-top:150px;
 
+}
+
+h3{
+  color:blue;
+    text-align: center;
+    margin-top: 120px;
+    
 }
 
 .clock {
