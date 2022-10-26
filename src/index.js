@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>Analog Clock App </h1>
-      <h3>Author: Kinmat Tech.</h3>
+      
       <Clock />
     </div>
   );
