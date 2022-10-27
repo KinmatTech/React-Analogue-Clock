@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       {/* <h1>Analog Clock App </h1> */}
       <h3>Analog Clock App. 
-        <font color="red"><br/><br/>Author: Kinmat Tech.</font></h3>
+        <font color="red"><br/>Author: Kinmat Tech.</font></h3>
       <Clock />
 
       
