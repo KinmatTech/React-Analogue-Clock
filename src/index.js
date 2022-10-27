@@ -6,11 +6,12 @@ import Clock from "./Clock";
 function App() {
   return (
     <div className="App">
-      <h1>Analog Clock App </h1>
+      {/* <h1>Analog Clock App </h1> */}
       
       <Clock />
 
-      <h3>Author: Kinmat Tech. </h3>
+      <h3>Analog Clock App. 
+        <font color="red"><br/>Author: Kinmat Tech.</font></h3>
     </div>
   );
 }
