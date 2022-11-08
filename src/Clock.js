@@ -41,6 +41,11 @@ export default class Clock extends Component {
             transform: `rotateZ(${this.state.time.getSeconds() * 6}deg)`
           }}
         />
+        <br /> <br />
+        <font color="#009910">
+          <b>Kinmat Clock App </b></font>
+        {/* <font color="#009910">
+         by: Kinma Tech. </font> */}
         <span className="twelve">12</span>
         <span className="one">1</span>
         <span className="two">2</span>
@@ -53,7 +58,9 @@ export default class Clock extends Component {
         <span className="nine">9</span>
         <span className="ten">10</span>
         <span className="eleven">11</span>
+        
       </div>
+      
     );
   }
 }
