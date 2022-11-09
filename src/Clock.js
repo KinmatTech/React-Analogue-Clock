@@ -44,7 +44,7 @@ export default class Clock extends Component {
         <br /> <br />
         
         <div className="small">
-        Kinmat Clock App
+        Kinmat Analog Clock App
         </div>
         {/* <font color="#034B03">
           <b>Kinmat Clock App </b></font> */}
