@@ -42,8 +42,12 @@ export default class Clock extends Component {
           }}
         />
         <br /> <br />
-        <font color="#034B03">
-          <b>Kinmat Clock App </b></font>
+        
+        <div className="small">
+        Kinmat Clock App
+        </div>
+        {/* <font color="#034B03">
+          <b>Kinmat Clock App </b></font> */}
         {/* <font color="#009910">
          by: Kinma Tech. </font> */}
         <span className="twelve">12</span>

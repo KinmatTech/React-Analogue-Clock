@@ -3,16 +3,10 @@
   font-family: sans-serif;
 }
 
-h3{
-  
-    text-align: center;
-    
-}
-    h2{
-      
-        text-align: center;
-        margin-top: 150px;
-    
+.small{
+  font-size:small;
+  font-weight: bold;
+  color:#222;
 }
 
 .clock {
